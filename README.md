@@ -15,8 +15,8 @@ The **Multi Product Page Website** is a stylish and responsive web project desig
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – For semantic structure.
-* **CSS3 / Bootstrap 5** – For layout, styling, and responsiveness.
+* **HTML** – For semantic structure.
+* **CSS / Bootstrap 5** – For layout, styling, and responsiveness.
 * **JavaScript (ES6)** – For interactivity and dynamic features.
 
 
@@ -43,4 +43,5 @@ Developed with ❤️ by **Somaya Ataie**
 
 **Somaya Ataie**  
 [GitHub Profile](https://github.com/somayaataee)
+
 
