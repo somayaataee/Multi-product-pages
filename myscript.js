@@ -44,14 +44,13 @@ document.addEventListener('DOMContentLoaded', () => {
     {id:8, name:"shoes", description:"Lightweight, trendy, and built to last", price:"$60", image:"../images/shoes.jpeg"},
     {id:9, name:"jal", description:"Add a touch of sparkle to your style", price:"$50", image:"../images/jal.jpeg"}
 
-
   ];
 
   buttons.forEach(btn => {
     btn.addEventListener('click', () => {
       const id = btn.getAttribute('data-id');
       const product = products.find(p => p.id == id);
-
+      //
       if (product) {
         document.getElementById('offcanvasTitle').innerText = product.name;
         document.getElementById('offcanvasImage').src = product.image;
