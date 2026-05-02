@@ -61,7 +61,6 @@
     width: 40%;
 
   }
-  /* From Uiverse.io by risabbir */ 
 .fullscreen-container {
     display: flex;
     align-items: center;
@@ -306,7 +305,6 @@
     color: red;
     transform: scale(1.05);
   }
-  /* From Uiverse.io by SelfMadeSystem */ 
 .rating {
   display: flex;
   flex-direction: row-reverse;
@@ -408,7 +406,6 @@
     border-radius: 30px;
   }
   /* -----------------------------------footer--------------------------------- */
-  /* From Uiverse.io by vinodjangid07 */ 
 .input-wrapper {
   width: fit-content;
   height: 45px;
@@ -521,7 +518,7 @@
   background: black;
   min-width:100%;
   min-height: 50vh;
-  padding-top: 5%;
+  padding-top: 15%;
   color: white;
 }
 .bottom-footer .col-md-4 .about-footer{
