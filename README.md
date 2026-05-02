@@ -38,7 +38,8 @@ The **Multi Product Page Website** is a stylish and responsive web project desig
 
 ## 👩‍💻 Author
 
-Developed with ❤️ by **Somaya Ataie**
+Developed with ❤️ by **Somaya Ataie** 
+
 💼 Computer Science Engineer & Web Developer
 
 **Somaya Ataie**  
