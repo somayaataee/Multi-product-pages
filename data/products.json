@@ -12,4 +12,12 @@
       "description": "Shine brighter every day",
       "price": "$120",
       "image": "../images/jelwary.jpeg"
-    }]
+    },
+   {
+      "id": 3,
+      "name": "SchoolBag",
+      "description": "Crafted for elegance and everyday use",
+      "price": "$100",
+      "image": "../images/schoolbag.jpeg"
+    }
+  ]
